@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "97e8fa8b3bb75f32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/intro to AI/INTRO TO AI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,8 +67,19 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "63bb35b83707c080",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -75,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dbms/intro to rdbms.md"
+                "file": "AI/intro to AI/INTRO TO AI.md"
               }
             }
           }
@@ -137,15 +161,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "df3b262e930d6201",
+  "active": "97e8fa8b3bb75f32",
   "lastOpenFiles": [
+    "dbms/intro to rdbms.md",
     "AI/intro to AI/INTRO TO AI.md",
     "Untitled 1.md",
     "AI/intro to AI/Welcome.md",
     "AI/intro to AI",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "dbms/intro to rdbms.md",
     "Untitled.md",
     "AI",
     "New folder",

@@ -17,3 +17,13 @@ it is the process of acquiring interpreting selecting and organizing sensory inf
 perception presumes sensing in human perception is aided by sensory organs
 but in the domain of ai the data is acquired in a meaningful manner
 
+#### linguistic
+it is ones ability to learn comprehend speak a language
+it is important in interpersonal communication
+
+#### diff between human and machine intelligence
+- human perceive by patterns where as a machine perceives by data
+- humans store and recall info by pattern but machines do it searching algorithms
+- human can figure out the complete object even if some part of it is missing
+- but the machines can do it correctly if we are providing explicit data 
+ 
