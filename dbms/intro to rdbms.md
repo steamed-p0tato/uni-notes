@@ -7,6 +7,7 @@
 - **data independence cant be implemented in a file system**
 
 ### 2 tier architecture
+
 aka client server relationship
 ###### ADV:
 - the main advantage is that it is very low maintenance 

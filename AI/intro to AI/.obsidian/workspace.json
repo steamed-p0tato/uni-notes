@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "fdf530038595b154",
+    "id": "783f36da03cbb2c8",
     "type": "split",
     "children": [
       {
-        "id": "86b0ca050c935c36",
+        "id": "c9b6d27e25178fec",
         "type": "tabs",
         "children": [
           {
-            "id": "df3b262e930d6201",
+            "id": "04db4e63d046e11e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "INTRO TO AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,25 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "08e154101916c0e7",
+    "id": "c1872f613c8e4e48",
     "type": "split",
     "children": [
       {
-        "id": "f0cd7ed022a467d4",
+        "id": "66100a73988b0c22",
         "type": "tabs",
         "children": [
           {
-            "id": "4e03e79818acf2c7",
+            "id": "8d2839f3168e346a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b6ae7730478a132c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -48,7 +58,7 @@
             }
           },
           {
-            "id": "ddfcc7d96c2afd54",
+            "id": "c8c7fd551a1b3aa9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -62,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "7258b9dbee4e303b",
+    "id": "b7f21be56361593e",
     "type": "split",
     "children": [
       {
-        "id": "ea8d498b100ed400",
+        "id": "b324c82ec6384d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "a014c2cb1ca39031",
+            "id": "546dee71bb1ace70",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "INTRO TO AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,19 +97,19 @@
             }
           },
           {
-            "id": "e4d137c2c6dcfdd3",
+            "id": "ef9017c0674acb60",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "INTRO TO AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4280f74d709e2ec1",
+            "id": "2d9eb0c92628593a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -110,12 +120,12 @@
             }
           },
           {
-            "id": "de984231641c4e76",
+            "id": "5d0c3c20e9b38cd5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "dbms/intro to rdbms.md"
+                "file": "INTRO TO AI.md"
               }
             }
           }
@@ -133,24 +143,11 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "df3b262e930d6201",
+  "active": "8d2839f3168e346a",
   "lastOpenFiles": [
-    "AI/intro to AI/INTRO TO AI.md",
-    "Untitled 1.md",
-    "AI/intro to AI/Welcome.md",
-    "AI/intro to AI",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "dbms/intro to rdbms.md",
-    "Untitled.md",
-    "AI",
-    "New folder",
-    "Excalidraw/Drawing 2024-01-03 14.20.32.excalidraw.md",
-    "Excalidraw",
-    "Untitled Diagram.svg"
+    "INTRO TO AI.md"
   ]
 }
