@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "fdf530038595b154",
+    "type": "split",
+    "children": [
+      {
+        "id": "86b0ca050c935c36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df3b262e930d6201",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dbms/intro to rdbms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08e154101916c0e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0cd7ed022a467d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e03e79818acf2c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ddfcc7d96c2afd54",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7258b9dbee4e303b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8d498b100ed400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a014c2cb1ca39031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "dbms/intro to rdbms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4d137c2c6dcfdd3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "dbms/intro to rdbms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4280f74d709e2ec1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de984231641c4e76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "dbms/intro to rdbms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "df3b262e930d6201",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-01-03 14.20.32.excalidraw.md",
+    "dbms/intro to rdbms.md",
+    "Excalidraw",
+    "Untitled Diagram.svg"
+  ]
+}
