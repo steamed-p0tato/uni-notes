@@ -17,6 +17,6 @@ aka client server relationship
 ### 3 tier architecture
 it has an application layer in front of the server which then invokes
 the database server by generation the query 
-
+![[Introduction-of-3-Tier-Architecture-in-DBMS.webp]]
 
 
