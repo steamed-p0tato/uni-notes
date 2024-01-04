@@ -2,7 +2,7 @@
 **the difference between  a file system and a dbms**
 - **dbms can be used to manage a database but we cant do it with a file system**
 - **filesystem is a way to arrange files in a storage system (nands and discs)**
-- **dbms provides data redundency**
+- **dbms provides data redundancy**
 - **multiple users can access dbms**
 - **data independence cant be implemented in a file system**
 
@@ -27,7 +27,7 @@ the database server by generation the query
 ```
 - create a table ```
 ```mysql
-CREATE TABLE tablename
+CREATE TABLE users
    (first_name VARCHAR(100),
    last_name VARCHAR(100),
    email VARCHAR(50))```
@@ -35,3 +35,5 @@ CREATE TABLE tablename
   ```mysql
   INSERT INTO users (first_name, last_name,) values ('Brad', 'Traversy', now());
 ```
+
+

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd28725624f04e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dbms lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "dbms lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dbms/intro to rdbms.md",
+                "file": "dbms lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dbms/intro to rdbms.md"
+                "file": "dbms lab.md"
               }
             }
           }
@@ -147,10 +160,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97e8fa8b3bb75f32",
+  "active": "dd28725624f04e51",
   "lastOpenFiles": [
-    "Untitled.md",
     "dbms/intro to rdbms.md",
+    "dbms lab.md",
     "Introduction-of-3-Tier-Architecture-in-DBMS.webp",
     "AI/intro to AI/INTRO TO AI.md",
     "Untitled 1.md",
