@@ -36,4 +36,9 @@ CREATE TABLE users
   INSERT INTO users (first_name, last_name,) values ('Brad', 'Traversy', now());
 ```
 
+- select names
+  ```mysql
+  SELECT * FROM users;
+  SELECT first_name, last_name FROM users;
+```
 
