@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df3b262e930d6201",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dbms/intro to rdbms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97e8fa8b3bb75f32",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,15 +149,15 @@
   },
   "active": "97e8fa8b3bb75f32",
   "lastOpenFiles": [
+    "Untitled.md",
+    "dbms/intro to rdbms.md",
     "Introduction-of-3-Tier-Architecture-in-DBMS.webp",
     "AI/intro to AI/INTRO TO AI.md",
-    "dbms/intro to rdbms.md",
     "Untitled 1.md",
     "AI/intro to AI/Welcome.md",
     "AI/intro to AI",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled.md",
     "AI",
     "New folder",
     "Excalidraw/Drawing 2024-01-03 14.20.32.excalidraw.md",

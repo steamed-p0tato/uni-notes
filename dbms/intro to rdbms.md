@@ -19,4 +19,19 @@ it has an application layer in front of the server which then invokes
 the database server by generation the query 
 
 
-
+#### steps of making a DB
+- DBMS (mysql in this case https://dev.mysql.com/downloads/file/?id=523570)
+- create a database
+    ```mysql
+(CREATE DATABASE acme;) , (to use a DB write USE acme;)
+```
+- create a table ```
+```mysql
+CREATE TABLE tablename
+   (first_name VARCHAR(100),
+   last_name VARCHAR(100),
+   email VARCHAR(50))```
+- enter data
+  ```mysql
+  INSERT INTO users (first_name, last_name,) values ('Brad', 'Traversy', now());
+```
