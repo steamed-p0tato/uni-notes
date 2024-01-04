@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dbms lab.md",
+                "file": "dbms/intro to rdbms.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dbms lab.md",
+                "file": "dbms/intro to rdbms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dbms lab.md",
+                "file": "dbms/intro to rdbms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dbms lab.md"
+                "file": "dbms/intro to rdbms.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "dd28725624f04e51",
   "lastOpenFiles": [
-    "dbms/intro to rdbms.md",
     "dbms lab.md",
+    "dbms/dbms lab.md",
+    "dbms/intro to rdbms.md",
     "Introduction-of-3-Tier-Architecture-in-DBMS.webp",
     "AI/intro to AI/INTRO TO AI.md",
     "Untitled 1.md",
