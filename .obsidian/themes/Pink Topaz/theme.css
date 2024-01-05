@@ -1,9 +1,9 @@
-/*Golden Topaz for Obsidian  v0.12.4，is a modified version of the Blue Topaz. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839 */
-/*金色托帕石是基于蓝色托帕石制作的魔改主题, 由嘴上云制作，欢迎到obsidian的qq群一起愉快折腾。群号：774176839  */
-/*version: 1.0.4  */
-/*版本：1.0.4  */
-/*date: 2021-06-07  */
-/*日期：2021-06-07  */
+/*Pink Topaz for Obsidian  v0.12.3，is a modified version of the Blue Topaz. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839 */
+/*粉色托帕石是基于蓝色托帕石制作的魔改主题, 由嘴上云制作，欢迎到obsidian的qq群一起愉快折腾。群号：774176839  */
+/*version: 1.0  */
+/*版本：1.0  */
+/*date: 2021-05-25  */
+/*日期：2021-05-25  */
 /*The following codes are from the Blue Topaz.    */
 /*下面的是蓝色托帕石的原版部分。  */
 /*蓝色托帕石，适合Obsidian v0.12.2。[20210506] flying fly flies制作，欢迎使用及分享，借鉴（copy）了许多主题，在此一一感谢。如果喜欢，可以在Github里给我星星 https://github.com/whyt-byte */
@@ -2673,11 +2673,11 @@ span.cm-formatting-task {
 
 /*if you want the highlight to present in both normal and insert mode of vim*/
 .theme-light .CodeMirror-activeline .CodeMirror-linebackground {
-  background-color: #9d99700d !important;
+  background-color: #f5a7a22f !important;
 }
 
 .theme-dark .CodeMirror-activeline .CodeMirror-linebackground {
-  background-color: #00767291 !important;
+  background-color: #f39ba073 !important;
 }
 
 /*----file explorer smaller fonts & line height----*/
@@ -3354,7 +3354,7 @@ pre.language-note-cloze::before {
 }
 
 .cluster rect {
-  fill: var(--background-primary-alt) !important;
+  fill: #f937590d !important;
   stroke: var(--text-faint) !important;
   stroke-width: 1px !important;
 }
@@ -5012,305 +5012,304 @@ img[alt$="inlR"] {
   word-wrap: break-word;
   word-break: break-word;
 }
-/*The following codes belong to the Gold Topaz, which includes all the modifications. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839   */
-/*下面的是金色托帕石的魔改部分，也是和原版蓝色托帕石的全部不同部分。[20210518] 嘴上云制作，欢迎到obsidian的qq群找俺一起折腾。群号：774176839  */
+/*The following codes belong to the Pink Topaz, which includes all the modifications. This modified theme was modified by Mouth On Cloud. Welcome to join our tencent QQ App's obsidian group chat: #774176839   */
+/*下面的是粉色托帕石的魔改部分，也是和原版蓝色托帕石的全部不同部分。[20210518] 嘴上云制作，欢迎到obsidian的qq群找俺一起折腾。群号：774176839  */
+/*version: 1.0  */
+/*版本：1.0  */
 .theme-light {
-    --background-primary: #dddbc7;
-    --background-primary-alt: #fbf0d221;
-    --background-secondary: #dddbc7;
-    --background-secondary-alt: rgba(0, 0, 0, 0.1);
-    --background-accent: #e6eff4;
+    --background-primary: #efe9d9;
+    --background-primary-alt: #ffdece;
+    --background-secondary: #efe9d9;
+    --background-secondary-alt: #efe9d9;
+    --background-accent: #fefcf9;
     --background-modifier-border: rgba(0, 0, 0, 0.1);
-    --background-modifier-form-field: #fbf0d2;
-    --background-modifier-form-field-highlighted: #e6eff4;
+    --background-modifier-form-field: #ffdece;
+    --background-modifier-form-field-highlighted: #f5a7a2;
     --background-modifier-box-shadow: rgba(0, 0, 0, 0.1);
-    --background-modifier-success: #fbf0d2;
-    --background-modifier-error: #4c5064;
+    --background-modifier-success: #ffdece;
+    --background-modifier-error: #f5a7a2;
     --background-modifier-error-rgb: 230, 135, 135;
-    --background-modifier-error-hover: #4c5064;
-    --background-modifier-cover: rgba(0, 0, 0, 0.8);
-    --text-accent: #4c5064;
-    --text-accent-hover: #4c5064;
-    --text-normal: #000000;
-    --text-muted: #4c5064;
-    --text-faint: #4c5064;
-    --accent-strong: #5667a4;
-    --text-error: #4c5064;
-    --text-error-hover: #4c5064;
-    --text-highlight-bg: #FBF0D0;
-    --text-selection: #fbf0d2;
-    --text-on-accent: #FBF0D0;
-    --interactive-normal: #dddbc7;
-    --interactive-hover: #e6eff4;
-    --interactive-accent-rgb: 70, 142, 235;
-    --interactive-accent: #4c5064;
-    --interactive-accent-hover: #e6eff4;
-    --panel-border-color: #dddbc7;
-    --search-text: #4c5064;
-    --folder-title: #4c5064;
-    --mark-highlight: #e6eff4;
-    --background-search-result: rgba(0, 0, 0, 0.1);
-    --gray-1: #a6a7a8;
-    --gray-2: #808080;
-    --red: #db4437;
-    --red-1: #a63b58;
-    --green: #0f9d58;
-    --darkgreen: #1a8b8d;
-    --blue: #4285f4;
-    --darkblue: #5667a4;
-    --purple: #a23ef7;
-    --aqua: #63e2fd;
-    --yellow: #f4b400;
-    --light-yellow: #ffe168;
-    --orange: #ff7622;
-    --light-purple: #b77dca;
-    --blue-green: #00b0b5;
-    --embed-color: #fbf0d221;
-    --search-result-file-title-color: #4c5064;
-    --theme-color: #4c5064;
-    --theme-color-translucent: #4c5064;
-    --theme-color-translucent-1: #fbf0d2;
-    --color-specification: #e6eff4;
-    --allow-1: #4c5064;
-    --list-ul-block-color: #4c5064;
-    --list-ul-disc-color: #4c5064;
-    --list-ul-hover: #fbf0d2;
-    --list-ol-block-color: #4c5064;
-    --list-ol-number-color: #4c5064;
-    --list-ol-hover: #fbf0d2;
-    --tag1: #5667a4;
-    --tag2: #007672;
-    --tag3: #3f73b8;
-    --tag4: #608ec1;
-    --tag5: #786b54;
-    --tag6: #6da1dd;
-    --tag7: #a29c90;
-    --tag8: #1a8b8d;
-    --tag9: #a6a7a8;
-    --h1-color: #000000;
-    --h2-color: #000000;
-    --h3-color: #000000;
-    --h4-color: #000000;
-    --h5-color: #000000;
-    --h6-color: #000000;
-    --graph-text-color: #000000;
-    --graphtag: #4c5064;
-    --graph-attach: #4c5064;
-    --graph-circle: #5667a4;
-    --graph-line: #5667a4;
-    --graph-unresolved: #4c5064;
-    --graph-arrow: #5667a4;
-    --mermaid-active-task-color: #e6eff4;
-    --mermaid-seq-dia-color: #59a0e2;
-    --table-background-color: #dddbc7;
-    --table-background-color-odd: #dddbc7;
-    --table-border-color: #4c5064;
-    --table-thead-background-color: #dddbc7;
-    --table-hover-raw-color: #dddbc7;
-    --table-hover-color: #fbf0d28a;
-    --table-hover-thead-color: #fbf0d28a;
-    --calendar-week-color: #4c5064;
-    --calendar-week-hover: #4c5064;
-    --calendar-week-background-color: #e6eff4;
-    --day-planner-pie: #4c5064;
-    --day-planner-timeline: #7db9ff;
-    --day-planner-line: #7db9ff;
-    --day-planner-dot: #e6eff4;
-    --day-planner-item-hover: #4c5064;
-    --event-item-color1: #77aff1;
-    --event-item-color2: #6da1dd;
-    --event-item-color3: #6292cb;
-    --event-item-color4: #5883b4;
-    --event-item-color5: #4e749f;
-    --event-item-color6: #44658b;
-    --event-item-color7: #4e749f;
-    --event-item-color8: #5883b4;
-    --event-item-color9: #6292cb;
-    --event-item-color10: #6da1dd;
-         /* I am too noob to touch this part
-    --text-gray: #4c5064;
-    --text-brown: #4c5064;
-    --text-orange: #4c5064;
-    --text-yellow: #4c5064;
-    --text-green: #4c5064;
-    --text-blue: #4c5064;
-    --text-purple: #4c5064;
-    --text-pink: #4c5064;
-    --text-red: #4c5064;
-    --background-gray: #e6eff4;
-    --background-brown: #e6eff4;
-    --background-orange: #e6eff4;
-    --background-yellow: #e6eff4;
-    --background-green: #e6eff4;
-    --background-blue: #ddebf1;
-    --background-purple: #e6eff4;
-    --background-pink: #e6eff4;
-    --background-red: #e6eff4;
+    --background-modifier-error-hover: #fefcf9;
+    --background-modifier-cover: rgba( 0, 0, 0, 0.2);
+    --text-accent: #980000;
+    --text-accent-hover: #37291a;
+    --text-normal: #37291a;
+    --text-muted: #37291a;
+    --text-faint: #37291a;
+    --accent-strong: #37291a;
+    --text-error: #f5a7a2;
+    --text-error-hover: #fefcf9;
+    --text-highlight-bg: #f5a7a2;
+    --text-selection: #ffebec;
+    --text-on-accent: #37291a;
+    --interactive-normal: #f39ba0;
+    --interactive-hover: #ffdece;
+    --interactive-accent-rgb: #fd355a;
+    --interactive-accent: #f5a7a2;
+    --interactive-accent-hover: #fd355a;
+    --panel-border-color: #fd355a;
+    --search-text: #37291a;
+    --folder-title: #37291a;
+    --mark-highlight: #fd355a;
+    --background-search-result: #ffdece;
+    --gray-1: #c4c4c4;
+    --gray-2: #7c8595;
+    --red: #fd355a;
+    --red-1: #980000;
+    --green: #40916c;
+    --darkgreen: #004f2d;
+    --blue: #69a2ee;
+    --darkblue: #5981f0; 
+    --purple: #8673b4;
+    --aqua: #4dd8ef;
+    --yellow: #ffc727;
+    --light-yellow: #e5e79c;
+    --orange: #f19c79;
+    --light-purple: #d3d6fe;
+    --blue-green: #16bcc0;
+    --embed-color: #fd355a1a;
+    --search-result-file-title-color: #980000;
+    --theme-color: #f5a7a2;
+    --theme-color-translucent: #f5a7a2;
+    --theme-color-translucent-1: #ffdece;
+    --color-specification: #fd355a;
+    --allow-1: #fd355a;
+    --list-ul-block-color: #f5a7a2;
+    --list-ul-disc-color: #fd355a;
+    --list-ul-hover: #980000;
+    --list-ol-block-color: #f5a7a2;
+    --list-ol-number-color: #f5a7a2;
+    --list-ol-hover: #980000;
+    --stag1: #fd355a;
+    --stag2: #fd355a;
+    --stag3: #fd355a;
+    --tag1: #e5c7a9;
+    --tag2: #fea2c2;
+    --tag3: #69a2ee;
+    --tag4: #40916c;
+    --tag5: #c47a5e;
+    --tag6: #f5a7a2;
+    --tag7: #ab4967;
+    --tag8: #dbb671;
+    --tag9: #f19c79;
+    --h1-color: #f39ba0;
+    --h2-color: #f39ba0;
+    --h3-color: #f39ba0;
+    --h4-color: #f39ba0;
+    --h5-color: #f39ba0;
+    --h6-color: #f39ba0;
+    --graph-text-color: #37291a;
+    --graphtag: #ffdece;
+    --graph-attach: #f5a7a2;
+    --graph-circle: #FD355C;
+    --graph-line: #fea2c2;
+    --graph-unresolved: #E87659;
+    --graph-arrow: #980000;
+    --mermaid-active-task-color: #f5a7a2;
+    --mermaid-seq-dia-color: #ffdece;
+    --table-background-color: #ffdece;
+    --table-background-color-odd: #ffdece;
+    --table-border-color: #fd355a;
+    --table-thead-background-color: #f5a7a2;
+    --table-hover-color: #f5a7a2;
+    --table-hover-thead-color: #f5a7a2;
+    --table-hover-raw-color: #ffdece;
+    --calendar-week-color: #f5a7a2;
+    --calendar-week-hover: #ffdece;
+    --calendar-week-background-color: #ffdece;
+    --day-planner-pie: #f5a7a2;
+    --day-planner-timeline: #ffdece;
+    --day-planner-line: #fd355a;
+    --day-planner-dot: #ffdece;
+    --day-planner-item-hover: #f5a7a2;
+    --event-item-color1: #f39ba063;
+    --event-item-color2: #f39ba091;
+    --event-item-color3: #f39ba0c4;
+    --event-item-color4: #f39ba0;
+    --event-item-color5: #D08489;
+    --event-item-color6: #B27175;
+    --event-item-color7: #D08489;
+    --event-item-color8: #f39ba0;
+    --event-item-color9: #f39ba0c4;
+    --event-item-color10: #f39ba091;
+     /* I am too noob to touch this part
+    --text-gray: #f5a7a2;
+    --text-brown: #f5a7a2;
+    --text-orange: #f5a7a2;
+    --text-yellow: #f5a7a2;
+    --text-green: #f5a7a2;
+    --text-blue: #f5a7a2;
+    --text-purple: #f5a7a2;
+    --text-pink: #f5a7a2;
+    --text-red: #f5a7a2;
+    --background-gray: #ffdece;
+    --background-brown: #ffdece;
+    --background-orange: #ffdece;
+    --background-yellow: #ffdece;
+    --background-green: #ffdece;
+    --background-blue: #ffdece;
+    --background-purple: #ffdece;
+    --background-pink: #ffdece;
+    --background-red: #ffdece;
     */
-    --note-important: #4c5064;
-    --note-cloze: #000000;
-    --stickies-color-1: #5667a4;
-    --stickies-color-2: #007672;
-    --tape-color: #786b54;
-    --header-color: #E1B87F;
-}
-    .theme-light .cm-s-obsidian pre.HyperMD-codeblock, .theme-light .cm-s-obsidian span.cm-inline-code, .theme-light .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end), .theme-light .markdown-preview-view code{
-    color: #db4e4ecc;
-    font-size: var(--font-size-edit-code) !important;
-    font-family: var(--font-family-preview-edit-code);
-    text-align: start;
-}
-.cm-formatting.cm-formatting-list.cm-formatting-list-ul {
-    color: #db4e4ecc;
+    --note-important: #fd355a;
+    --note-cloze: #fd355a;
+    --stickies-color-1: #fd355a;
+    --stickies-color-2: #f5a7a2;
+    --tape-color: #acacac65;
+    --header-color: #f5a7a2;
 }
 .theme-dark {
-    --background-primary: #353231;
-    --background-primary-alt: #00767224;
-    --background-secondary: #383433;
-    --background-secondary-alt: #353231;
-    --background-accent: #786b54;
-    --background-modifier-border: rgba(0, 0, 0, 0.1);
-    --background-modifier-form-field: #007672;
-    --background-modifier-form-field-highlighted: rgba(0, 0, 0, 0.22);
-    --background-modifier-box-shadow: rgba(0, 0, 0, 0.3);
-    --background-modifier-success: #E1B87F;
-    --background-modifier-error: #007672;
-    --background-modifier-error-rgb: 155,67,67;
-    --background-modifier-error-hover: #D1CCBD;
-    --background-modifier-cover: rgba(0, 0, 0, 0.6);
-    --text-accent: #E1B87F;
-    --text-accent-hover: #786b54;
-    --text-normal: #a29c90;
-    --text-muted: #a29c90;
-    --text-faint: rgb(121, 121, 121);
-    --accent-strong: #786b54;
-    --text-em-color: #E1B87F;
-    --text-error: #007672;
-    --text-error-hover: #E1B87F;
-    --text-highlight-bg: #D1CCBD;
-    --text-selection: #EFDBB2;
-    --text-on-accent: #E1B87F;
-    --interactive-normal: #007672;
-    --interactive-hover: #E1B87F;
-    --interactive-accent: #007672;
+    --background-primary: #212121;
+    --background-primary-alt: #f937590d;
+    --background-secondary: #242424;
+    --background-secondary-alt: #191919;
+    --background-accent: #e4ba6c;
+    --background-modifier-border: #191919;
+    --background-modifier-form-field: #f39ba0;
+    --background-modifier-form-field-highlighted: #e5c7a9;
+    --background-modifier-box-shadow: #292929;
+    --background-modifier-success: #f93759;
+    --background-modifier-error: #f93759;
+    --background-modifier-error-rgb: #f93759;
+    --background-modifier-error-hover: #F93758;
+    --background-modifier-cover: rgba(0, 0, 0, 0.3);
+    --text-accent: #ffccbc;
+    --text-accent-hover: #f93759;
+    --text-normal: #efe9d9;
+    --text-muted: #efe9d9;
+    --text-faint: #efe9d9;
+    --accent-strong: #efe9d9;
+    --text-em-color: #f93759;
+    --text-error: #f93759;
+    --text-error-hover: #f93759;
+    --text-highlight-bg: #f39ba0;
+    --text-selection:#e5c7a94a;
+    --text-on-accent: #ffffff;
+    --interactive-normal: #f39ba0;
+    --interactive-hover: #ffccbc;
+    --interactive-accent: #f39ba0;
     --interactive-accent-rgb: 45, 135, 211;
-    --interactive-accent-hover: #E1B87F;
-    --panel-border-color: #353231;
-    --search-text: #007672;
-    --folder-title: #007672;
-    --mark-highlight: #007672;
-    --background-search-result: #786b54;
-    --gray-1: #353231;
-    --gray-2: #786b54;
-    --red: #f97065;
-    --red-1: #ff4a4a;
-    --orange: #f9944c;
-    --green: #0f9d58;
-    --darkgreen: #007672;
-    --aqua: #61C8B9;
-    --purple: #ab7fe6;
-    --blue: #198cff;
-    --darkblue: #007aff;
-    --yellow: #f7dc01;
-    --light-yellow: #E1B87F;
-    --embed-color: #786b540d;
-    --search-result-file-title-color: #007672;
-    --theme-color: #E1B87F;
-    --theme-color-translucent: #007672;
-    --theme-color-translucent-1: #007672;
-    --color-specification: #E1B87F;
-    --allow-1: #E1B87F;
-    --background-blockquote-dark: #786b540d;
-    --list-ul-block-color: #007672;
-    --list-ul-disc-color: #E1B87F;
-    --list-ul-hover: #EFDBB2;
-    --list-ol-block-color: #a29c90;
-    --list-ol-number-color: #a29c90;
-    --list-ol-hover: #007672;
-    --tag1: #007672;
-    --tag2: #786b54;
-    --tag3: #aa7f39cc;
-    --tag4: #3C4855;
-    --tag5: #674712;
-    --tag6: #60616f;
-    --tag7: #7f7272;
-    --tag8: #2F3546;
-    --tag9: #393c44;
-    --h1-color: #D1CCBD;
-    --h2-color: #D1CCBD;
-    --h3-color: #D1CCBD;
-    --h4-color: #D1CCBD;
-    --h5-color: #D1CCBD;
-    --h6-color: #D1CCBD;
-    --graph-text-color: #a29c90;
-    --graphtag: #007672;
-    --graph-attach: #E1B87F;
-    --graph-circle: #EFDBB2;
-    --graph-line: #E1B87F;
-    --graph-unresolved: #E1B87F;
-    --graph-arrow: #EFDBB2;
-    --mermaid-active-task-color: #007672;
-    --mermaid-seq-dia-color: #E1B87F;
-    --table-background-color: #353231;
-    --table-background-color-odd: #353231;
-    --table-border-color: #c0c0c0;
-    --table-thead-background-color: #786b54;
-    --table-hover-raw-color: #353231;
-    --table-hover-color: #efdbb217;
-    --table-hover-thead-color: #efdbb2e3;
-    --calendar-week-color: #E1B87F;
-    --calendar-week-hover: #786b54;
-    --calendar-week-background-color: #007672;
-    --day-planner-pie: #007672;
-    --day-planner-timeline: #269894;
-    --day-planner-line: #786b54;
-    --day-planner-dot: #786b54;
-    --day-planner-item-hover: #EFDBB2;
-    --event-item-color1: #007672;
-    --event-item-color2: #136664;
-    --event-item-color3: #105553;
-    --event-item-color4: #0D4a48;
-    --event-item-color5: #0b3f3d;
-    --event-item-color6: #093634;
-    --event-item-color7: #0b3f3d;
-    --event-item-color8: #0D4a48;
-    --event-item-color9: #105553;
-    --event-item-color10: #136664;
-      /* I am too noob to touch this part    
-    --text-gray: #E1B87F;
-    --text-brown: #E1B87F;
-    --text-orange: #E1B87F;
-    --text-yellow: #E1B87F;
-    --text-green: #E1B87F;
-    --text-blue: #E1B87F;
-    --text-purple: #E1B87F;
-    --text-pink: #E1B87F;
-    --text-red: #E1B87F;
-    --background-gray: #007672;
-    --background-brown: #007672;
-    --background-orange: #007672;
-    --background-yellow: #007672;
-    --background-green: #007672;
-    --background-blue: #007672;
-    --background-purple: #007672;
-    --background-pink: #007672;
-    --background-red: #007672;
-    */
-    --note-important: #007672;
-    --note-cloze: #E1B87F;
-    --stickies-color-1: #007672;
-    --stickies-color-2: #E1B87F;
-    --tape-color: #007672;
-    --header-color: #f1a634d0;
+    --interactive-accent-hover: #f93759;
+    --panel-border-color: #f93759;
+    --search-text: #fff;
+    --folder-title: #fff;
+    --mark-highlight: #f93759;
+    --background-search-result: #292929;
+    --gray-1: #c9b0b0;
+    --gray-2: #b4b1c6;
+    --red: #ff9090;
+    --red-1: #f93759;
+    --orange: #f28d61;
+    --green: #00ffc7;
+    --darkgreen: #1bbc9b;
+    --aqua: #30daff;
+    --purple: #b073ff;
+    --blue: #00a3b9;
+    --darkblue: #0040ff;
+    --yellow: #fcdc00;
+    --light-yellow: #ffd26c;
+    --embed-color: #2929297d;
+    --search-result-file-title-color: #f39ba0;
+    --theme-color: #ffccbc;
+    --theme-color-translucent: #f39ba0;
+    --theme-color-translucent-1: #f39ba0;
+    --color-specification: #f93759;
+    --allow-1: #f93759;
+    --background-blockquote-dark: #292929;
+    --list-ul-block-color: #f39ba0;
+    --list-ul-disc-color: #f93759;
+    --list-ul-hover: #ffebec;
+    --list-ol-block-color: #f39ba0;
+    --list-ol-number-color: #ffccbc;
+    --list-ol-hover: #ffebec;
+    --stag1: #f39ba0;
+    --stag2: #ffccbc;
+    --stag3: #ffebec;
+    --tag1: #028588;
+    --tag2: #40916c;
+    --tag3: #69a2ee;
+    --tag4: #c47a5e;
+    --tag5: #004f2d;
+    --tag6: #f5a7a2;
+    --tag7: #f19c79;
+    --tag8: #02a588;
+    --tag9: #ab4967;
+    --h1-color: #ffccbc;
+    --h2-color: #ffccbc;
+    --h3-color: #ffccbc;
+    --h4-color: #ffccbc;
+    --h5-color: #ffccbc;
+    --h6-color: #ffccbc;
+    --graph-text-color: #efe9d9;
+    --graphtag: #f39ba0;
+    --graph-attach: #ffebec;
+    --graph-circle: #f39ba0;
+    --graph-line: #ffc3bc;
+    --graph-unresolved: #ffccbc;
+    --graph-arrow: #ffc3bc;
+    --mermaid-active-task-color: #F39BA4;
+    --mermaid-seq-dia-color: #ffebec;
+    --table-background-color: #212121;
+    --table-background-color-odd: transparent;
+    --table-border-color: #ffebec;
+    --table-thead-background-color: #f39ba0ad;
+    --table-hover-raw-color: #292929;
+    --table-hover-color: #ffccbc0a;
+    --table-hover-thead-color: #f39ba0;
+    --calendar-week-color: #ffccbc;
+    --calendar-week-hover: #f39ba0;
+    --calendar-week-background-color: transparent;
+    --day-planner-pie: #ffccbc;
+    --day-planner-timeline: #ff9b7c;
+    --day-planner-line: #f39ba0;
+    --day-planner-dot: #ffebec;
+    --day-planner-item-hover: #f39ba0;
+    --event-item-color9: #ffc3bc;
+    --event-item-color8: #ffbcbc;
+    --event-item-color10: #ffccbc;
+    --event-item-color7: #ffbcc4;
+    --event-item-color6: #ffbcbc;
+    --event-item-color5: #ffc3bc;
+    --event-item-color4: #ffccbc;
+    --event-item-color3: #ffd4bc;
+    --event-item-color2: #ffdcbc;
+    --event-item-color1: #ffe4bc;
+    /* I am too noob to touch this part
+    --text-gray: #acacac;
+    --text-brown: #be9684;
+    --text-orange: #ffa344;
+    --text-yellow: #ffdc51;
+    --text-green: #52c7b2;
+    --text-blue: #8ca1ff;
+    --text-purple: #b386f1;
+    --text-pink: #ff6bba;
+    --text-red: #ff4f4f;
+    --background-gray: #535353;
+    --background-brown: #493a3a;
+    --background-orange: #53422f;
+    --background-yellow: #585536;
+    --background-green: #32503e;
+    --background-blue: #2f5264;
+    --background-purple: #443f57;
+    --background-pink: #533b4a;
+    --background-red: #683c3c;
+    */ 
+    --note-important: #f93759;
+    --note-cloze: #f93759;
+    --stickies-color-1: #f39ba0;
+    --stickies-color-2: #ffebec;
+    --tape-color: #ffccbc47;
+    --header-color: #f39ba0;
 }
 .theme-dark .cm-s-obsidian pre.HyperMD-codeblock, .theme-dark .cm-s-obsidian span.cm-inline-code, .theme-dark .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end), .theme-dark .markdown-preview-view code{
-    color: #786b54;
+    color: #fff;
     font-size: var(--font-size-edit-code) !important;
     font-family: var(--font-family-preview-edit-code);
     text-align: start;
 }
 .outline .tree-item-children:hover {
-  border-left-color: #E1B87F;
+  border-left-color: #f39ba0;
 }
 .cm-s-obsidian,
 .markdown-preview-view {
@@ -5350,8 +5349,8 @@ Syntax: none | manual | auto
 	margin-bottom: 20px;
 }
 .graph-view.color-line-highlight {
-  color: #136664;
-}
+  color: #fea2c2;
+} 
 /* 显示当前代码块的语言类别 */
 pre {
     position: relative;
@@ -5457,13 +5456,7 @@ pre[class*='language-txt']:before {
 
 .theme-light code[class*="language-"],
 .theme-light pre[class*="language-"] {
-    color: #4c5064 !important;
-    text-shadow: none;
-    font-family: var(--mono-font), var(--cjk-font);
-}
-.theme-dark code[class*="language-"],
-.theme-dark pre[class*="language-"] {
-    color: #D1CCBD !important;
+    color: #37291a !important;
     text-shadow: none;
     font-family: var(--mono-font), var(--cjk-font);
 }
@@ -5497,4 +5490,15 @@ pre[class*='language-txt']:before {
 .theme-dark .comment, .theme-light .comment {
     font-size: 0.9em !important;
     font-weight: 450;
+}
+/*嘴上云又改的深色主题代码注释色*/
+.theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-comment {
+    color: #e5c7a78a;
+}
+
+.theme-dark .cm-s-obsidian pre.HyperMD-codeblock .cm-number {
+    color: #b49fc6;
+}
+.theme-dark .cm-s-obsidian span.cm-hmd-frontmatter.cm-variable-3, .theme-dark .cm-s-obsidian span.cm-math.cm-variable-3, .theme-dark .cm-s-obsidian pre.HyperMD-codeblock span.cm-variable-3 {
+    color: #ae6ce7;
 }

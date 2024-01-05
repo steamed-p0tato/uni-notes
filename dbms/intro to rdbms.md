@@ -42,3 +42,14 @@ CREATE TABLE users
   SELECT first_name, last_name FROM users;
 ```
 
+# *schema:-*
+---
+#### 3 schema architecture
+- view level *(external schema)*
+- logical level *(conceptual schema)*
+- physical layer *(physical schema)*
+
+
+
+
+
