@@ -16,7 +16,7 @@ fashions, believes, attitudes, opinions and values of the society in which they 
 integrity is defined as the unity of thought, deed and open mindness.
 it includes the capacity to communicate the factual information so that others can make well informed decisions.
 it yields the persons peace of mind and hence adds strength and consistency in character, decisions and actions.
-this paves way to ones success it is one of the self direction virtues it enthues ppl not only to execute a job well but to achieve ecelence in performance 
+this paves way to ones success it is one of the self direction virtues it enthues ppl not only to execute a job well but to achieve excellence in performance 
 it helps to own the responsibility and earn self respect and recognition by doing the job.
 **moral integrity is defined as a virtue which reflects a consistency of ones attitudes, emotions and conduct in relation to justify moral values**
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "human values and ethics/intro to human value.md",
+                "file": "AI/EDA/missing values.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "human values and ethics/intro to human value.md",
+                "file": "AI/EDA/missing values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "human values and ethics/intro to human value.md",
+                "file": "AI/EDA/missing values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "human values and ethics/intro to human value.md"
+                "file": "AI/EDA/missing values.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "dd28725624f04e51",
   "lastOpenFiles": [
-    "dbms/intro to rdbms.md",
+    "AI/EDA/ML roadmap.md",
+    "AI/EDA/missing values.md",
     "human values and ethics/intro to human value.md",
+    "AI/EDA",
+    "Automata/Formal language.md",
+    "Untitled.md",
+    "Automata",
+    "dbms/intro to rdbms.md",
     "human values and ethics",
     "dbms lab.md",
     "dbms/dbms lab.md",
