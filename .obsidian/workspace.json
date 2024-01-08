@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "formal lang and automata/string gen.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "formal lang and automata/string gen.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "formal lang and automata/string gen.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "formal lang and automata/string gen.md"
+                "file": "AI/intro to AI/INTRO TO AI.md"
               }
             }
           }
@@ -150,12 +150,14 @@
   },
   "active": "14e91772ad290649",
   "lastOpenFiles": [
-    "Untitled.md",
+    "AI/EDA/ML roadmap.md",
+    "OOPs JAVA/intro to java.md",
     "formal lang and automata/string gen.md",
+    "OOPs JAVA",
+    "Untitled.md",
     "DAA/intro class.md",
     "formal lang and automata",
     "dbms/intro to rdbms.md",
-    "AI/EDA/ML roadmap.md",
     "AI/intro to AI/INTRO TO AI.md",
     "human values and ethics/intro to human value.md",
     "AI/EDA/missing values.md",
