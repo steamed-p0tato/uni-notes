@@ -21,7 +21,7 @@ the database server by generation the query
 
 #### steps of making a DB
 - DBMS (mysql in this case https://dev.mysql.com/downloads/file/?id=523570)
-- create a database
+- create a database #creation 
     ```mysql
 (CREATE DATABASE acme;) , (to use a DB write USE acme;)
 ```
@@ -51,5 +51,25 @@ CREATE TABLE users
 
 
 
+# *data modeling*
+___
+##### relational model
+- data + relations + semantics (meaning of the data) + constraints (parameters under which the data must be entered like no alphabates in the place of phone numbers)
+- ###### types of relational model 
+    1. conceptual model
+	2. representational model
+	 3. physical model 
+
+## *hierarchical data model*
+---
+
+
+
+## *network model*
+---
+
+
+## *semi structured data model*
+---
 
 

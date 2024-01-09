@@ -130,7 +130,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,6 +151,9 @@
   },
   "active": "14e91772ad290649",
   "lastOpenFiles": [
+    "dbms/intro to rdbms.md",
+    "dbms/dbms lab.md",
+    "AI/intro to AI/INTRO TO AI.md",
     "AI/EDA/ML roadmap.md",
     "OOPs JAVA/intro to java.md",
     "formal lang and automata/string gen.md",
@@ -157,8 +161,6 @@
     "Untitled.md",
     "DAA/intro class.md",
     "formal lang and automata",
-    "dbms/intro to rdbms.md",
-    "AI/intro to AI/INTRO TO AI.md",
     "human values and ethics/intro to human value.md",
     "AI/EDA/missing values.md",
     "DAA",
@@ -167,7 +169,6 @@
     "Automata",
     "human values and ethics",
     "dbms lab.md",
-    "dbms/dbms lab.md",
     "Introduction-of-3-Tier-Architecture-in-DBMS.webp",
     "Untitled 1.md",
     "AI/intro to AI/Welcome.md",
