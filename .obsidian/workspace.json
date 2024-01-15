@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "70d3816169537791",
+        "id": "446dea51b1f061eb",
         "type": "tabs",
         "children": [
           {
-            "id": "6b3ab4ca8c882342",
+            "id": "7a5fc084326d02c0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "formal lang and automata/string gen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "formal lang and automata/string gen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "formal lang and automata/string gen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "formal lang and automata/string gen.md"
+              }
             }
           }
         ],
@@ -141,13 +149,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6b3ab4ca8c882342",
+  "active": "7a5fc084326d02c0",
   "lastOpenFiles": [
+    "AI/EDA/ML roadmap.md",
+    "AI/EDA/missing values.md",
     "DAA/intro class.md",
     "human values and ethics/intro to human value.md",
     "dbms/dbms lab.md",
-    "AI/EDA/missing values.md",
-    "AI/EDA/ML roadmap.md",
     "AI/intro to AI/INTRO TO AI.md",
     "dbms/intro to rdbms.md",
     "OOPs JAVA/intro to java.md",
