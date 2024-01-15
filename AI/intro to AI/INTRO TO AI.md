@@ -97,3 +97,40 @@ the model depends on an interrogator who decides between a chatbot and a human r
 These examples cover a range of environments and types of agents, showcasing how different entities operate and interact within specific contexts.
 ```
 
+in a goal based agent is uncertain about which path it will take but the utility based agen find the best path and explore the path 
+
+learning agent:- a learning agent has mainly 4 conceptual learning agent
+1. learning element
+2. critique 
+3. performance element
+4. problem generator
+
+1.it is reponsible making for making imporvement from learning 
+2.here the leaning element takes feedback from critique which describes that how well the agent is doing with respect to a fixed performance standard 
+3.it is responsible for selecting external actions
+4.this component is responsible for suggesting action that will lead to new and informative experience 
+
+difference between weak ai and strong ai
+
+#### weak ai
+ -it is limited to perform some specific task 
+- programmed for fixxed funcs
+- no consciousness and awareness 
+#### stong ai
+-it performs intelligent ai activities
+- has the ability to learn think and perform new activities like humans
+- it posseses creativity common sense and logic like humans
+
+
+## searching in ai
+---
+the search algorithm in ai provides solution to many artificial intelligence related issues
+##### search algo terms:-
+- search
+- search space
+- start state
+- goal state
+- search tree
+- action
+- path cost
+- optimal solution

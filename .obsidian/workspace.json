@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAA/intro class.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAA/intro class.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAA/intro class.md",
+                "file": "AI/intro to AI/INTRO TO AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAA/intro class.md"
+                "file": "AI/intro to AI/INTRO TO AI.md"
               }
             }
           }
@@ -151,6 +151,7 @@
   },
   "active": "7a5fc084326d02c0",
   "lastOpenFiles": [
+    "DAA/intro class.md",
     "dbms/dbms lab.md",
     "dbms/intro to rdbms.md",
     "human values and ethics/intro to human value.md",
@@ -159,7 +160,6 @@
     "formal lang and automata/string gen.md",
     "AI/EDA/ML roadmap.md",
     "AI/EDA/missing values.md",
-    "DAA/intro class.md",
     "OOPs JAVA",
     "Untitled.md",
     "formal lang and automata",
