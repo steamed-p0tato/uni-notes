@@ -54,7 +54,29 @@ such virtues which make life a pleasant one.
 - ==living in peace== :- to have a peaceful life we must overcome our desire and greed. When the greed for factors like ego, power and moni are controlled at individual level, peace automatically comes. as long as there are elements of lust, anger , greed, ego, infatuation, and jealousy, peace cannot be attained 
 - ==self respect== is a great virtue to live with self respect and self dignity, we need to respect the words, actions and accomplishments of others as we live in a society social growth and development should be held at a higher level of respect for the building up a stable and peaceful society 
 - ==honesty==:- the virtue of honesty has been the greatest quality in a human being and has deeper meaning in personal and family life. when a person realizes the fact that dishonesty gives rise to many pains and agonies and sorrows of life. it is bound to live with honesty .
-- ==tolerance== :- it is anther great human quality, we should be patient about the views and opinions and actions of others, keeping iin mind the ideals and ideas of democracy, freedom and human rights.
+- ==tolerance== :- it is anther great human quality, we should be patient about the views and opinions and actions of others, keeping in mind the ideals and ideas of democracy, freedom and human rights.
 
 
+## value crisis
+---
+the discussion on human value and ethics is simply endless 
+this existed from time immorial but todays problems are more serious, because no one has much time to think of such burning issues people are busy because they are forced by circumstances to be busy.
+in a technology driven world people are bound to be busy.
+we are busy because we need to earn as much as money as possible.
+money has become the most powerful factor in governing modern human life. many ppl dont kno where to put a stop to this desire for earning more money.
+##### the way outta the value crisis 
+---
+1. to spread education to all sections of the society. to provide basic health care and employement opportunities to the common man. the political and social leaders should lead the country by setting up examples through upholding of honesty and integrity of the highest order.
+2. higher edu systems should provide valu based edu in which basic human and business ethics would be made an essential component.
+3. the media internet etc should act in a responsible manner so that out young stars receive right kind of value education and attitude training from the start of their beginning of their careers 
+4. a transparent administration and a corruption free governance are absolutely needed for inculcating human values in general minds.
 
+
+## a good life
+---
+we all know that ethics is basically an understanding the art of right and wrong actions, the art of distinguishing between the good and the bad. Tho right and wrong  action maybe throughout to be relative, there are certain, there are certain universal principals on which the right and wrong actions can clearly be assessed. on the basis of concepts of justice, love, compassion, non violence democracy, peace and stability, we can easily understand the consequences of our present actions and there by understanding the right and wrong actions taken by us. the concept of goodlife and holistic  art of living revolve around the following aspect of life;
+- a clear philosophical understanding of life including the concept of birth, death, disease, and suffering of old age. 
+- an understanding of physical mental and spiritual development of a human through direct or indirect education or inspiration.
+- developing respect and admiration for great men and women in history who sacrificed their personal happiness only to brings the light of truth and justice in out present lives. 
+- to act in such a manner that we not only bring happiness to ourselves but  also to our fellow beings. not to do harm to anyone in  the process of pursuit of our own happiness. to develop an attitude of serving the core and downtrodden to follow the principal of truth justice and equality in all spheres of life and activity  
+- to abide by laws, rules and regulations for maintenance of peace and stability of the society 

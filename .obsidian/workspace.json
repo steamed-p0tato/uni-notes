@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/intro to AI/INTRO TO AI.md",
+                "file": "OOPs JAVA/intro to java.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7258b9dbee4e303b",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/intro to AI/INTRO TO AI.md",
+                "file": "OOPs JAVA/intro to java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI/intro to AI/INTRO TO AI.md",
+                "file": "OOPs JAVA/intro to java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/intro to AI/INTRO TO AI.md"
+                "file": "OOPs JAVA/intro to java.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "7a5fc084326d02c0",
   "lastOpenFiles": [
-    "DAA/intro class.md",
-    "dbms/dbms lab.md",
     "dbms/intro to rdbms.md",
-    "human values and ethics/intro to human value.md",
-    "OOPs JAVA/intro to java.md",
+    "dbms/dbms lab.md",
+    "AI/EDA/missing values.md",
+    "human values and ethics/human value.md",
     "AI/intro to AI/INTRO TO AI.md",
+    "DAA/intro class.md",
+    "OOPs JAVA/intro to java.md",
     "formal lang and automata/string gen.md",
     "AI/EDA/ML roadmap.md",
-    "AI/EDA/missing values.md",
     "OOPs JAVA",
     "Untitled.md",
     "formal lang and automata",
