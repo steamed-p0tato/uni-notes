@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OOPs JAVA/intro to java.md",
+                "file": "dbms/dbms lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOPs JAVA/intro to java.md",
+                "file": "dbms/dbms lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOPs JAVA/intro to java.md",
+                "file": "dbms/dbms lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOPs JAVA/intro to java.md"
+                "file": "dbms/dbms lab.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "7a5fc084326d02c0",
   "lastOpenFiles": [
-    "dbms/intro to rdbms.md",
-    "dbms/dbms lab.md",
     "AI/EDA/missing values.md",
-    "human values and ethics/human value.md",
-    "AI/intro to AI/INTRO TO AI.md",
-    "DAA/intro class.md",
-    "OOPs JAVA/intro to java.md",
-    "formal lang and automata/string gen.md",
     "AI/EDA/ML roadmap.md",
+    "AI/intro to AI/INTRO TO AI.md",
+    "dbms/dbms lab.md",
+    "DAA/intro class.md",
+    "dbms/intro to rdbms.md",
+    "OOPs JAVA/intro to java.md",
+    "human values and ethics/human value.md",
+    "formal lang and automata/string gen.md",
     "OOPs JAVA",
     "Untitled.md",
     "formal lang and automata",
