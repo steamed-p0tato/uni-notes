@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dbms/dbms lab.md",
+                "file": "human values and ethics/human value.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dbms/dbms lab.md",
+                "file": "human values and ethics/human value.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dbms/dbms lab.md",
+                "file": "human values and ethics/human value.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dbms/dbms lab.md"
+                "file": "human values and ethics/human value.md"
               }
             }
           }
@@ -151,17 +151,17 @@
   },
   "active": "7a5fc084326d02c0",
   "lastOpenFiles": [
+    "AI/intro to AI/INTRO TO AI.md",
+    "dbms/intro to rdbms.md",
+    "Untitled.md",
+    "OOPs JAVA/intro to java.md",
+    "dbms/dbms lab.md",
     "AI/EDA/missing values.md",
     "AI/EDA/ML roadmap.md",
-    "AI/intro to AI/INTRO TO AI.md",
-    "dbms/dbms lab.md",
     "DAA/intro class.md",
-    "dbms/intro to rdbms.md",
-    "OOPs JAVA/intro to java.md",
     "human values and ethics/human value.md",
     "formal lang and automata/string gen.md",
     "OOPs JAVA",
-    "Untitled.md",
     "formal lang and automata",
     "DAA",
     "AI/EDA",

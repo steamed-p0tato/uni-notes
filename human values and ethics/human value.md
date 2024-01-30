@@ -80,3 +80,53 @@ we all know that ethics is basically an understanding the art of right and wrong
 - developing respect and admiration for great men and women in history who sacrificed their personal happiness only to brings the light of truth and justice in out present lives. 
 - to act in such a manner that we not only bring happiness to ourselves but  also to our fellow beings. not to do harm to anyone in  the process of pursuit of our own happiness. to develop an attitude of serving the core and downtrodden to follow the principal of truth justice and equality in all spheres of life and activity  
 - to abide by laws, rules and regulations for maintenance of peace and stability of the society 
+
+# Ethics
+
+---
+
+Ethics is defined as the discipline dealing with what is good and bad and with moral duty and obligation. Thus, personal ethics has been referred to as the rules by which an individual lives his/her personal life and accounting ethics pertain to the code that guides the professional conduct of acquaintance. Business ethics is concerned with truth and justice and a variety of aspects such as the expectations of society, fair competition, advertising, public relations, social responsibilities, expectations of autonomy and corporate behaviour in the home country as well as abroad. Ethics is the study of the characteristics of morals ethics also deals with the moral choices that are made by each person in their relationships with other persons.
+
+# Engineering Ethics
+
+---
+
+Engineering ethics constitutes the rules and the standard governing the conduct of engineers in their role as professionals. Engineering ethics encompasses the more general definition of ethics but applies it more specifically to situations involving engineers in their professional lives. Thus, engineering ethics is a body of philosophy indicating the ways that engineers should conduct themselves in their professional capacities.
+
+# Nature of Ethical Problems
+
+---
+
+Ethical problems rarely have a single readily deducted solution. They deal in shades of meaning, uncertainty, doubts and complex relationships. They are part of an ethical continuum whose components are linked with one another and where a holistic view is needed. There is indivisibility in the continuum. Personal values cannot be separated from social and professional values although it may be possible to reflect upon particular aspects to develop a comprehensive moral attitude. It is not possible to deal with precise rules and regulations only to suggest guidelines. These guidelines give ethical behaviour a special place in maintaining the quality of life in communities.
+
+# Harmony in the human beings
+
+---
+
+Harmony in human beings refers to a state of balance to a state of balance, peace within an individual. It involves the integration of various aspects of a person's being, including their thoughts, emotions, values and actions. When there is harmony within individuals they experience a sense of inner peace, well-being and alignment with themselves and the world around them.
+
+# There are some key elements and practices that contribute to the harmony of human beings
+
+---
+
+1. **Self-awareness**: Developing self-awareness is essential for cultivating harmony within oneself. It involves being conscious of one's thoughts, emotions and behaviours as well as understanding one's values, strengths and areas for growth. Self-awareness enables individuals to identify and address inner conflicts or imbalances.
+
+2. **Emotional Intelligence**: Emotional intelligence involves understanding and managing one's own emotions as well as being aware of and empathetic towards the emotions of others. Developing emotional intelligence allows individuals to respond to situations and interactions with self-control, empathy and compassion fostering harmonious relationships.
+
+3. **Mindfulness & Presence**: Practising mindfulness involves being fully present in the current moment without judgement or attachment to past or future thoughts. Mindfulness cultivates a sense of inner calm and awareness helping individuals manage stress, enhance focus and make conscious choices that align with their values.
+
+4. **Alignment with values**: Living in alignment with one's values brings a sense of authenticity and integrity contributing to inner harmony. By identifying and prioritising their core values, individuals can make decisions and take actions that are in line with what they believe in, fostering a sense of coherence and inner peace.
+
+5. **Balance & Well-being**: Maintaining balance in different areas of light such as work, relationships, physical health and personal interest is crucial for overall well-being and harmony. Taking care of one's physical, mental, and emotional health through self-care practices such as exercise, relaxation and healthy boundaries supports a sense of balance and harmony.
+
+6. **Positive relationships**: Cultivating positive and supportive relationships with others plays a significant role in harmonious living. Nurturing healthy communication, empathy and mutual respect contributes to harmonious interactions and a sense of belonging.
+
+7. **Growth & Learning**: Embarrassing personal growth and lifelong learning fosters a sense of fulfilment and harmony. Engaging in activities that promote personal development, acquiring new knowledge and skills and embarrassing challenges leads to a sense of progress and inner harmony.
+
+## holistic perception of harmony in existence
+it refers to the understanding and recognition of the interconnectedness 
+and balance that exists in the world around us it encompasses the idea that everything in this world is interconnected and part of a greater whole and that there is an inherent order and balance in the universe. this perception of harmony recognizes that all aspect of existence weather they be physical or biological or spiritual are interdependent on and affect one another. it acknowledges that actions and events in one part of the system can have repel effects that reverberate throughout the entire system
+in this holistic perception, harmony is not necessarily a static state but a rather a dynamic equilibrium i.e constantly shifting and adjusting. it recognizes that change in an inherent part of existence and that true harmony arises form embarrassing and adapting to this change. from a philosophical and spiritual perspective the holistic perception of harmony often involves recognizing and aligning  once self with the natural rhythms and cycles of the universe can involve cultivating a deep sense of respect and reverence for all life forms this perception of harmony can have profound implications how we interact with the world and each other it encourages practices and behaviors that promote balance, sustenance and cooperation rather than exploitation or competition
+it emphasizes the importance of finding harmony and within oneself and extending that harmony to others and the environment 
+overall the holistic perception of harmony in existence is a way of seeing and experiencing the world that goes beyond superficial appearances and seeks to understand and align with the deeper interconnectedness and balance that underlies all of existence  
+

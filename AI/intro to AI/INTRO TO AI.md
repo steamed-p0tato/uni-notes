@@ -136,3 +136,37 @@ the search algorithm in ai provides solution to many artificial intelligence rel
 - optimal solution
 
 
+# intro to hill climbing
+---
+it is a fundamental method of problem solving in this technice experts can solve complex optimization problems the hill climbing algorithm initiates its process at its base point or foot of the hill. it embarks iterative explorations of adjacent node 
+here hill climbing algos using the incremental objective function 
+it is targeting the better optimal positions to evaluate the potential of the solution
+##### observations
+1. local maxima:- it is a state which is obv better than the current state but there is a better state available compared to the local maxima 
+2. global maxima:- it is the best state available in the graph where no state gets better than this state
+3. ridge:- (a zig-zag along x axis) it happens when there are multiple peaks and all have the same value in other words it is a combination of local maxima. it our data is trapped in local maxima ai experts can adopt back propagation technique that can mitigate the local maximum limitation.. it starts exploring alternate paths when it encounters local maximum.. solution: it can be solved by moving in sevaral directions at the same time  
+4. how to solve a platue:- it can be solved by taking a big jump from the current state which will land you in non platue region 
+
+### types of hill climbing
+---
+1. simple hill climb:- 
+Step 1: Start with an initial state.
+
+Step 2: Check if the initial state is the goal. If so, return success and exit.
+
+Step 3: Enter a loop to search for a better state continuously.
+
+- Select a neighboring state within the loop by applying an operator to the current state.
+- Evaluate this new state:
+
+- If it’s the goal state, return success and exit.
+- If it’s better than the current state, update the current state to this new state.
+- If it’s not better, discard it and continue the loop.
+
+Step 4: End the process if no better state is found and the goal isn’t achieved.
+
+note: it is the simplist form of hill lcimb it only takes neighboring nodes for its neighboring operation if the neighbouring node is better than the current node.. it states neighboring node = current node... 
+
+
+2. steepest ascent hill climb
+3. stochastic hill climb

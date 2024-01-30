@@ -196,3 +196,46 @@ public class Main {
 
 // Outputs "I just got executed!"
 ```
+
+
+## input output system
+---
+**output can be given in** 
+```java 
+System.out.print("adamas") //cursor wont jump to the next line
+```
+
+```java
+System.out.println("adamas") //cursor will jump to the next line
+```
+
+**input:- stream:-**
+- accepting input from keyboard
+a streaming concept is required to accept anything from keyboard in java.
+a streaming carries data from keyboard to memory or from memory to any output device or file .
+all streams are represented by classes in java.io package 
+when we write system.in we are representing a std input device ie keyboard by default. 
+system class is found in java.lang package
+to accept data from keyboard
+system. in is required as input stream
+it includes 2 step process
+1. connect the keyboard to an input stream object we can use input stream reader that can read data from keyboard
+2. connect input stream reader to buffer reader which is another input stream class. buffer reader got methods to read data properly.
+accepting a single character from keyboard- 
+- create a buffer reader class object
+- read a single character from keyboard using the line-` char ch= br.read()`;
+- read method reads a single char from keyboard so it returns ascii value which is integer since integer no. cannot be stored as character hence we need to do typecasting to convert it into char
+```java
+import java.io.*
+public class Accept_Character {
+	public static void main(String args[])
+}
+	BufferReader br = new BufferedReader(new
+	InputStreamReader(System.in));
+
+	System.out.print("enter a char");
+	char ch = (char)br.read();
+	System.out.println("the char is" +ch);
+	
+```
+

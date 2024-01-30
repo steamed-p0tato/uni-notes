@@ -60,18 +60,14 @@ ___
 	2. representational model
 	 3. physical model 
 
-## *hierarchical data model*
+# super key
 ---
+Super key is an attribute set that can uniquely identify a tuple. A super key is a superset of a candidate key.
+
+In the above EMPLOYEE table, for(EMPLOEE_ID, EMPLOYEE_NAME), the name of two employees can be the same, but their EMPLYEE_ID can't be the same. Hence, this combination can also be a key.
+
+The super key would be EMPLOYEE-ID (EMPLOYEE_ID, EMPLOYEE-NAME), etc.
 
 
 
-## *network model*
----
 
-
-
-## *semi structured data model*
----
-
-
-####
